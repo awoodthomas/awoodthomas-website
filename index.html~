@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Alexander Wood-Thomas</title>
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <meta content="Bodo - Simple One Page Personal" name="description">
+    <meta content="BdgPixel" name="author">
+    <!--Fav-->
+    <link href="images/favicon.ico" rel="shortcut icon">
+    
+    <!--styles-->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/owl.carousel.css" rel="stylesheet">
+    <link href="css/owl.theme.css" rel="stylesheet">
+    <link href="css/magnific-popup.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+    
+    <!--fonts google-->
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,700' rel='stylesheet' type='text/css'>
+    
+    <!--[if lt IE 9]>
+       <script type="text/javascript" src="js/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <!--PRELOADER-->
+    <div id="preloader">
+      <div id="status">
+        <img alt="logo" src="images/gear_sym_trans.png" height=70%>
+      </div>
+    </div>
+    <!--/.PRELOADER END-->
+
+    <!--HEADER -->
+    <div class="header">
+      <div class="for-sticky">
+        <!--LOGO-->
+        <div class="col-md-2 col-xs-6 logo">
+          <a href="index.html"><img alt="logo" class="logo-nav" src="images/gear_sym_trans.png"></a>
+        </div>
+        <!--/.LOGO END-->
+      </div>
+      <div class="menu-wrap">
+        <nav class="menu">
+          <div class="menu-list">
+            <a data-scroll="" href="#home" class="active">
+              <span>Home</span>
+            </a>
+            <a data-scroll="" href="#about">
+              <span>About</span>
+            </a>
+            <a data-scroll="" href="#work">
+              <span>Work</span>
+            </a>
+             <a data-scroll="" href="#services">
+              <span>Services</span>
+            </a>
+            <a data-scroll="" href="#employement">
+              <span>Employement</span>
+            </a>
+            <a data-scroll="" href="#skill">
+              <span>Skills</span>
+            </a>
+            <a data-scroll="" href="#education">
+              <span>Education</span>
+            </a>
+            <a data-scroll="" href="#testimonial">
+              <span>Testimonial</span>
+            </a>
+            <a data-scroll="" href="#blog">
+              <span>Blog</span>
+            </a>
+            <a data-scroll="" href="#contact">
+              <span>Contact</span>
+            </a>
+          </div>
+        </nav>
+        <button class="close-button" id="close-button">Close Menu</button>
+      </div>
+      <button class="menu-button" id="open-button">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button><!--/.for-sticky-->
+    </div>
+    <!--/.HEADER END-->
+    
+    <!--CONTENT WRAP-->
+    <div class="content-wrap">
+      <!--CONTENT-->
+      <div class="content">
+        <!--HOME-->
+        <section id="home">
+          <div class="container">
+            <div class="row">
+              <div class="wrap-hero-content">
+                  <div class="hero-content">
+                    <h1>Alexander Wood-Thomas</h1>
+                    <br>
+                    <span>I'm a Cornell Mechanical Engineering M.Eng. graduating in 2018. <br> If you want to learn more about me, this is the place to be.
+		    </span>
+                  </div>
+              </div>
+              <div class="mouse-icon margin-20">
+                <div class="scroll"></div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!--/.HOME END-->
+
+        <!--ABOUT-->
+        <section id="about">
+          <div class="col-md-6 col-xs-12 no-pad">
+            <div class="bg-about"></div>
+          </div>
+          <div class="col-md-6 col-sm-12 col-xs-12 white-col">
+            <div class="row">
+              <!--OWL CAROUSEL2-->
+              <div class="owl-carousel2">
+                <div class="col-md-12">
+                  <div class="wrap-about">
+                    <div class="w-content">
+                      <p class="head-about">It's often said that there is no place for the jack of all trades amongst the modern rise of technology. I cannot help but disagree - I have found that my combination of skills and experience in mechanical design, manufacturing, software development, and electrical systems gives me a skillset that helps me excel in each of these individual areas. Combined with hands-on project work and six years working and helping run machine shops, I am prepared to tackle the mechatronic systems that have become ever so important.</p>
+                      
+                      <h5 class="name">
+                        Alexander Wood-Thomas
+                      </h5>
+		      <!--<img alt="signature" src="images/signature.png">-->
+                    </div>
+                  </div>
+                </div>
+              
+                <div class="col-md-12 col-sm-12 col-xs-12 white-col">
+                  <div class="row">
+                    <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-12">
+                      <div class="wrap-about">
+                        <table class="w-content">
+                          <tr>
+                            <td class="title">Name </td>
+                            <td class="break">:</td>
+                            <td> Alexander Wood-Thomas</td>
+                          </tr>
+                          <tr>
+                            <td class="title">Phone </td>
+                            <td class="break">:</td>
+                            <td> (703) 508-4416</td>
+                          </tr>
+                          <tr>
+                            <td class="title">Email </td>
+                            <td class="break">:</td>
+                            <td> adw75@cornell.edu</td>
+                          </tr>
+                          <tr>
+                            <td class="title">School Address </td>
+                            <td class="break">:</td>
+                            <td> 730 University Ave, Ithaca, NY 14850</td>
+                          </tr>
+			  <tr>
+                            <td class="title">Home Address </td>
+                            <td class="break">:</td>
+                            <td> 2040 Rhode Island Ave, McLean, VA 22101</td>
+                          </tr>
+                          <tr>
+                            <td class="title">Github</td>
+                            <td class="break">:</td>
+                            <td> incomplete</td>
+                          </tr>
+                        </table>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!--/.OWL CAROUSEL2 END-->
+            </div>
+          </div>
+        </section>
+        <!--/.ABOUT END-->
+
+        <!--WORK-->
+        <section class="grey-bg mar-tm-10" id="work">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-3">
+                <h3 class="title-small">
+                  <span>Portfolio</span>
+                </h3>
+                <p class="content-detail">
+		Over the years I have amassed a collection of design projects and software and simulation tools.
+		</p>
+              </div>
+              <div class="col-md-9 content-right">
+                <!--PORTFOLIO IMAGE-->
+                <ul class="portfolio-image">
+                  <li class="col-md-6">
+                    <a href="images/sec-render.jpg"><img alt="image" src="images/sec-render.jpg">
+                      <div class="decription-wrap">
+                        <div class="image-bg">
+                           <p class="desc">CVT Secondary Pulley</p>
+                        </div>
+
+                      </div>
+                    </a>
+                  </li>
+                  <li class="col-md-6">
+                    <a href="images/rad.jpg"><img alt="image" src="images/rad.jpg">
+                      <div class="decription-wrap">
+                        <div class="image-bg">
+                          <p class="desc">
+                            Pangirutan
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="col-md-6">
+                    <a href="images/bw-3.png"><img alt="image" src="images/bw-3.png">
+                      <div class="decription-wrap">
+                        <div class="image-bg">
+                          <p class="desc">
+                            Black Mug
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="col-md-6">
+                    <a href="images/bw-4.png"><img alt="image" src="images/bw-4.png">
+                      <div class="decription-wrap">
+                        <div class="image-bg">
+                          <p class="desc">
+                            Notebook Mockup
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="col-md-6">
+                    <a href="images/bw-5.png"><img alt="image" src="images/bw-5.png">
+                      <div class="decription-wrap">
+                        <div class="image-bg">
+                          <p class="desc">
+                            Presentation
+                          </p>  
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="col-md-6">
+                    <a href="images/bw-6.png"><img alt="image" src="images/bw-6.png">
+                      <div class="decription-wrap">
+                        <div class="image-bg">
+                          <p class="desc">
+                            Letter Branding
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                </ul>
+                <!--/.PORTFOLIO IMAGE END-->
+              </div>
+            </div>
+          </div>
+        </section>
+        <!--/.WORK END-->
+
+        <!--SERVICES-->
+        <section class="white-bg" id="services">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-3">
+                <h3 class="title-small">
+                  <span>Services</span>
+                </h3>
+                <p class="content-detail">
+                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                </p>
+              </div>
+              <div class="col-md-9 content-right">
+                <div class="row">
+                  <ul class="listing-item">
+                    <li>
+                      <div class="col-md-4 col-sm-4">
+                        <h3 class="icon-use">
+                          L
+                        </h3>
+                        <p class="head-sm">
+                          MECHANICAL DESIGN
+                        </p>
+                        <p class="text-grey">
+                          I am coming on six years of both academic and professional design experience. I'm comfortable in any parametric CAD package, with extensive experience in SolidWorks, NX, and Inventor.
+                        </p>
+                      </div>
+                    </li>
+
+                    <li>
+                      <div class="col-md-4 col-sm-4">
+                        <h3 class="icon-use">
+                          W
+                        </h3>
+                        <p class="head-sm">
+                          ROBOTICS
+                        </p>
+                        <p class="text-grey">
+			  I have been passionate about robotics since entering the engineering field. The fusion and control of mechanical, electrical, and software systems is where I am most at home. This is well supported by my academic background in control systems. 
+			</p>
+                      </div>
+                    </li>
+
+                    <li>
+                      <div class="col-md-4 col-sm-4">
+                        <h3 class="icon-use">
+                          w
+                        </h3>
+                        <p class="head-sm">
+                          AEROSPACE
+                        </p>
+                        <p class="text-grey">
+                          Two internships working in private and government space programs has given me a familiarity with the stringent requirements associated with aerospace, as well as the intricacies of design for extreme environments. 
+                        </p>
+                      </div>
+                    </li>
+                  </ul>
+
+                  <ul class="listing-item">
+                    <li>
+                      <div class="col-md-4 col-sm-4">
+                        <p class="icon-use">
+                          g
+                        </p>
+                        <p class="head-sm">
+                          SOFTWARE DEVELOPMENT
+                        </p>
+                        <p class="text-grey">
+                          A minor in CS and a total eights years of coding experience has given me proficiency in multiple languages, including Python, MATLAB, Java, C, and Javascript. Beyond full software development, it allows me to support mechanical or controls work with support, modelling, and simulation tools, with a rigorous approach formed by a computer science background.
+                        </p>
+                      </div>
+                    </li>
+
+                    <li>
+                      <div class="col-md-4 col-sm-4">
+                        <h3 class="icon-use">
+                          d
+                        </h3>
+                        <p class="head-sm">
+                          WEB DEVELOPMENT
+                        </p>
+                        <p class="text-grey">
+                          Part of my software experience is in web development. I have taken on the full stack in various projects, gaining skills in front-end design and development, Javascript, and some backend and database development. 
+                        </p>
+                      </div>
+                    </li>
+
+                    <li>
+                      <div class="col-md-4 col-sm-4">
+                        <h3 class="icon-use">
+                          s
+                        </h3>
+                        <p class="head-sm">
+                          MACHINING
+                        </p>
+                        <p class="text-grey">
+                          I started working in machine shops in high school, and have worked part-time for a number of shops since. As a lead in manufacturing for Cornell's Baja SAE team and the head student machinist for the mechanical engineering shop, I spend an average of 15 hours a week in the machine shop. I primarily focus on CNC lathes, mills, and 4th axis programming and operation. I also work with a variety of manual machinery and auto-shop equipment. Responsibilities include fixture design and tooling selection and purchasing. 
+                        </p>
+                      </div>
+                    </li>
+                  </ul>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!--/.SERVICES END-->
+
+        <!--EMPLOYEMENT-->
+        <section class="grey-bg" id="employement">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-3">
+                <h3 class="title-small">
+                  <span>Employement</span>
+                </h3>
+                <p class="content-detail">
+		  I hed sum jebs.
+		</p>
+              </div>
+              <div class="col-md-9 content-right">
+                <div class="row">
+                  <ul class="listing-item">
+                    <li>
+                      <div class="col-md-6 col-sm-6">
+                        <div class="wrap-card">
+                          <div class="card">
+                            <h2 class="year">
+                              Summer 2017
+                            </h2>
+                            <p class="job">
+			      Mechanical Engineering Intern
+			    </p>
+                            <p class="company">
+                              U.S. Naval Research Lab
+                            </p>
+                            <hr>
+                            <div class="text-detail">
+                              <p>
+			        Worked on mechanical design and sensor integration for Robotic Servicing for Geosynchronous Satellites. Partnered with an engineer to design, fabricate, and test a prototype for the primary robotic tool. Designed structural components under strict requirements for mass and stiffness. Designed a custom machined torsional spring custom and researched magnetics and hall effect devices to integrate sensing. 
+			      </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+
+                    <li>
+                      <div class="col-md-6 col-sm-6">
+                        <div class="wrap-card">
+                          <div class="card">
+                            <h2 class="year">
+                              Summer 2016
+                            </h2>
+                            <p class="job">
+			      Product Design Intern
+			    </p>
+                            <p class="company">
+                              Apple Inc.
+                            </p>
+                            <hr>
+                            <div class="text-detail">
+                              <p>
+			        Did cool stuff, can't tell you about it tho. Soz.
+			      </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                  </ul>  
+                  <ul class="listing-item">
+                    <li>
+                      <div class="col-md-6 col-sm-6">
+                        <div class="wrap-card">
+                          <div class="card">
+                            <h2 class="year">
+                              Summer 2015
+                            </h2>
+                            <p class="job">
+			      Mechanical Engineering Intern and Software Developer
+			    </p>
+                            <p class="company">
+			      Orbital ATK
+			    </p>
+                            <hr>
+                            <div class="text-detail">
+                              <p>
+			        Goose spaceship, and wrote some code.
+			      </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+
+                    <li>
+                      <div class="col-md-6 col-sm-6">
+                        <div class="wrap-card">
+                          <div class="card">
+                            <h2 class="year">
+			      Summer 2013
+			    </h2>
+                            <p class="job">
+                              Mechatronics Intern and Machinist
+                            </p>
+                            <p class="company">
+                              George Washington University
+                            </p>
+                            <hr>
+                            <div class="text-detail">
+                              <p>
+                                Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanita per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes.
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                  </ul>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!--/.EMPLOYEMENT END-->
+
+
+        <!--EDUCATION-->
+        <section class="grey-bg" id="education">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-3">
+                <h3 class="title-small">
+                  <span>Education</span>
+                </h3>
+                <p class="content-detail">
+		I went 2 skool.
+		</p>
+              </div>
+              <div class="col-md-9 content-right">
+                <div class="row">
+                  <ul class="listing-item">
+                    <li>
+                      <div class="col-md-6 col-sm-6">
+                        <div class="wrap-card">
+                          <div class="card">
+                            <h2 class="year">
+                              Spring 2018
+                            </h2>
+                            <p class="job">
+                              Mechanical Engineering, M.Eng.
+                            </p>
+                            <p class="company">
+                              Cornell University
+                            </p>
+                            <hr>
+                            <div class="text-detail">
+                              <p>
+			        Graduating in four years with an M.Eng.
+			      </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+
+                    <li>
+                      <div class="col-md-6 col-sm-6">
+                        <div class="wrap-card">
+                          <div class="card">
+                            <h2 class="year">
+                              2014 - Fall 2017
+                            </h2>
+                            <p class="job">
+			      Mechanical Engineering, B.S. <br>
+			      Computer Science, Minor
+                            </p>
+                            <p class="company">
+                              Cornell University
+                            </p>
+                            <hr>
+                            <div class="text-detail">
+                              <p>
+			        My undergraduate degree.
+			      </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                  </ul>
+                  <ul class="listing-item">
+                    <li>
+                      <div class="col-md-6 col-sm-6">
+                        <div class="wrap-card">
+                          <div class="card">
+                            <h2 class="year">
+                              2007 - 2009
+                            </h2>
+                            <p class="job">
+			      Automation and Robotics Senior Research
+			    </p>
+                            <p class="company">
+			      Thomas Jefferson for High School and Technology
+			    </p>
+                            <hr>
+                            <div class="text-detail">
+                              <p>
+			        Pretty sweet high school.
+			      </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+
+                  </ul>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!--/.EDUCATION END-->
+
+        <!--TESTIMONIAL-->
+        <section id="testimonial">
+          <div class="container">
+            <div class="row wrap-testimonial">
+              <div class="col-md-10 col-md-offset-1">
+                <div class="owl-carousel">
+                  <div class="list-testimonial">
+                    <div class="content-testimonial">
+                      <h3 class="testi">
+		        Wow Alexander is sooooo coool.
+		      </h3>
+                      <p class="people">
+                        Definitely not Alexander.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="mask-testimonial"></div>
+        </section>
+        <!--/.TESTMONIAL END-->
+
+        <!--CONTACT-->
+        <section id="contact" class="white-bg">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-3">
+                <h3 class="title-small">
+                  <span>Contact</span>
+                </h3>
+                <p class="content-detail">
+		  You can HMU, I guess.
+		</p>
+
+              </div>
+              <div class="col-md-9 content-right">
+                <form>
+                  <div class="group">
+                    <input required="" type="text"><span class="highlight"></span><span class="bar"></span><label>Name</label>
+                  </div>
+                  <div class="group">
+                    <input required="" type="email"><span class="highlight"></span><span class="bar"></span><label>Email</label>
+                  </div>
+                  <div class="group">
+                    <textarea required=""></textarea><span class="highlight"></span><span class="bar"></span><label>Message</label>
+                  </div>
+                  <input id="sendMessage" name="sendMessage" type="submit" value="Send Message">
+                </form>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!--/.CONTACT END-->
+        
+        <!--FOOTER-->
+        <footer>
+          <div class="footer-top">
+            <ul class="socials">
+              <li class="facebook">
+                <a href="#" data-hover="Facebook">Facebook</a>
+              </li>
+              <li class="twitter">
+                <a href="#" data-hover="Twitter">Twitter</a>
+              </li>
+              <li class="gplus">
+                <a href="#" data-hover="Google +">Google +</a>
+              </li>
+            </ul>
+          </div>
+
+          <div class="footer-bottom">
+            <div class="container">
+              <div class="row">
+                <a href="https://dcrazed.com/"><img src="images/logo-bottom.png" alt="crafted with love" class="center-block" /></a>
+			 </div>
+            </div>
+          </div>
+        </footer>
+        <!--/.FOOTER-END-->
+
+      <!--/.CONTENT END-->
+      </div>
+    <!--/.CONTENT-WRAP END-->
+    </div>
+    
+
+    <script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <script src="js/jquery.appear.js" type="text/javascript"></script>
+    <script src="js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="js/classie.js" type="text/javascript"></script>
+    <script src="js/owl.carousel.min.js" type="text/javascript"></script>
+    <script src="js/jquery.magnific-popup.min.js" type="text/javascript"></script>
+    <script src="js/masonry.pkgd.min.js" type="text/javascript"></script>
+    <script src="js/masonry.js" type="text/javascript"></script>
+    <script src="js/smooth-scroll.min.js" type="text/javascript"></script>
+    <script src="js/typed.js" type="text/javascript"></script>
+    <script src="js/main.js" type="text/javascript"></script>
+  </body>
+</html>
